@@ -1,0 +1,5 @@
+name: TabList
+author: Qzop
+version: 1.0
+main: me.tab.TabList.main
+description: handles the scoreboard teams.
